@@ -1,0 +1,56 @@
+header nav ul {
+    display:flex;
+    align-items: center;
+
+
+}
+ul li {
+    list-style-type:none;
+    margin-left:36px;
+    margin-top: 20px;
+    
+}
+.hello {
+    background-color:#930ee0cb;
+    margin-left: 400px;
+    padding:14px 28px;
+   border:none;
+   border-radius:12px; 
+    font-size: medium;
+    color:white;
+
+    
+}
+section  {
+    margin-top: 100px;
+    margin-left:50px;
+    display: flex;
+    flex-direction: row;
+}
+.hamara {
+    color:#340ee0f0;
+    font-weight:bolder;
+    font-size: 50px;
+    
+}
+.tumhara {
+    font-size:14px;
+    
+}
+.card {
+    margin-top: 60px;
+    background-color:#930ee0cb;
+    color:white;
+    font-size: medium;
+    padding:14px 28px;
+    border:none;
+    border-radius:12px;
+}
+.ham {
+    
+    margin-right:30px;
+    margin-bottom:60px;
+    width:300px;
+    height:300px;
+    
+}
